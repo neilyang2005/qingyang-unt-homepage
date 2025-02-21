@@ -60,6 +60,7 @@ Dr. Yang has received several significant research grants to further his work on
 
 - **2024 Most Cited Researchers**: Dr. Yang was recognized as one of the world’s most cited researchers, a testament to his impactful contributions to the field of computer science and engineering.
 - **UNT College of Engineering Research Award (2022)**: Awarded for his exceptional research in autonomous vehicle technologies and wireless communication.
+- **Tech Titans of the Future** Dr. Yang was nominated as one finalist of the Tech Titans of the Future 2021.
 
 ---
 
