@@ -35,7 +35,7 @@ Dr. Yang's research has led to several important publications in leading journal
   
 - Chen Q, Tang S, Yang Q, Fu S. Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds. In2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS) 2019 Jul 7 (pp. 514-524). IEEE.
 
-- Chen Q, Ma X, Tang S, Guo J, Yang Q, Fu S. F-cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds. InProceedings of the 4th ACM/IEEE Symposium on Edge Computing 2019 Nov 7 (pp. 88-100).** Best Paper Award**
+- Chen Q, Ma X, Tang S, Guo J, Yang Q, Fu S. F-cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds. InProceedings of the 4th ACM/IEEE Symposium on Edge Computing 2019 Nov 7 (pp. 88-100). **Best Paper Award**
 
 
 
@@ -45,8 +45,14 @@ Dr. Yang's research has led to several important publications in leading journal
 
 Dr. Yang has received several significant research grants to further his work on connected vehicle systems and wireless communication. These include:
 
-- **NSF Award #2010332**: Collaborative Research on Vehicular Safety Systems
-- **NSF Award #2225229**: Developing a High-Quality Computing Environment for Broadening Participation in Computing
+- **NSF Award #2010332**: PI, Collaborative Research: Enabling Machine Learning based Cooperative Perception with mmWave Communication for Autonomous Vehicle Safety
+- **NSF Award #2037982**: PI, EAGER: SaTC: Privacy-Preserving Convolutional Neural Network for Cooperative Perception in Vehicular Edge Systems
+- **NSF Award #2017564**: PI, CyberTraining: Implementation: Small: Collaborative and Integrated Training on Connected and Autonomous Vehicles Cyber Infrastructure
+- **NSF Award #1761641**: PI, NeTS: EAGER: Intelligent Information Dissemination in Vehicular Networks based on Social Computing
+- **NSF Award #2231519**: Co-PI, IUCRC Phase I University of North Texas: Center for Electric, Connected and Autonomous Technologies for Mobility (eCAT)
+- **NSF Award #2221942**: Co-PI, FW-HTF-P: Understanding and Assessing Technology Innovation to Mitigate Distraction and Improve the Performance of Future Forklift Operators
+- **NSF Award #2113805**: Co-PI, IUCRC Planning Grant University of North Texas: Center for Electric, Connected and Autonomous Technologies for Mobility (eCAT)
+- **NSF Award #1852134**: Co-PI, REU Site: Vehicular Edge Computing and Security: Research Experience for Undergraduates
 
 ---
 
