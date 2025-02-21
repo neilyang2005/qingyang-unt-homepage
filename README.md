@@ -22,10 +22,12 @@ Qing Yang, Ph.D, is an associate professor in the Department of Computer Science
 Dr. Yang's research has led to several important publications in leading journals and conferences. Some of his key works include:
 
 - Qu D, Chen Q, Bai T, Lu H, Fan H, Zhang H, Fu S, Yang Q. SiCP: Simultaneous Individual and Cooperative Perception for 3D Object Detection in Connected and Automated Vehicles. In2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 Oct 14 (pp. 8905-8912). IEEE.
+  
+- Dong S, Feng Y, Yang Q, Huang Y, Liu D, Fan H. Efficient multimodal semantic segmentation via dual-prompt learning. In2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024 Oct 14 (pp. 14196-14203). IEEE.
 
 - Song L, Valentine W, Yang Q, Wang H, Fang H, Liu Y. BB-Align: A Lightweight Pose Recovery Framework for Vehicle-to-Vehicle Cooperative Perception. In2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS) 2024 Jul 23 (pp. 1016-1026). IEEE.
 
--Liu X, Liu X, Yi Z, Zhou X, Le T, Zhang L, Huang Y, Yang Q, Fan H. PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking. InProceedings of the IEEE/CVF International Conference on Computer Vision 2023 (pp. 20449-20458).
+- Liu X, Liu X, Yi Z, Zhou X, Le T, Zhang L, Huang Y, Yang Q, Fan H. PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking. InProceedings of the IEEE/CVF International Conference on Computer Vision 2023 (pp. 20449-20458).
 
 - Qiu C, Yadav S, Squicciarini A, Yang Q, Fu S, Zhao J, Xu C. Distributed data-sharing consensus in cooperative perception of autonomous vehicles. In2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS) 2022 Jul 10 (pp. 1212-1222). IEEE.
 
