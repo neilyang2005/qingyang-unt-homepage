@@ -35,7 +35,7 @@ Dr. Yang's research has led to several important publications in leading journal
   
 - Chen Q, Tang S, Yang Q, Fu S. Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds. In2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS) 2019 Jul 7 (pp. 514-524). IEEE.
 
-- Chen Q, Ma X, Tang S, Guo J, Yang Q, Fu S. F-cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds. InProceedings of the 4th ACM/IEEE Symposium on Edge Computing 2019 Nov 7 (pp. 88-100).
+- Chen Q, Ma X, Tang S, Guo J, Yang Q, Fu S. F-cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds. InProceedings of the 4th ACM/IEEE Symposium on Edge Computing 2019 Nov 7 (pp. 88-100).** Best Paper Award**
 
 
 
