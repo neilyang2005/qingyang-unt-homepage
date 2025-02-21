@@ -36,6 +36,8 @@ Dr. Yang's research has led to several important publications in leading journal
 - Chen Q, Tang S, Yang Q, Fu S. Cooper: Cooperative perception for connected autonomous vehicles based on 3d point clouds. In2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS) 2019 Jul 7 (pp. 514-524). IEEE.
 
 - Chen Q, Ma X, Tang S, Guo J, Yang Q, Fu S. F-cooper: Feature based cooperative perception for autonomous vehicle edge computing system using 3D point clouds. InProceedings of the 4th ACM/IEEE Symposium on Edge Computing 2019 Nov 7 (pp. 88-100). **Best Paper Award**
+  
+- Guo J, Ma X, Sansom A, McGuire M, Kalaani A, Chen Q, Tang S, Yang Q, Fu S. Spanet: Spatial pyramid attention network for enhanced image recognition. In2020 IEEE International Conference on Multimedia and Expo (ICME) 2020 Jul 6 (pp. 1-6). IEEE. **Best Paper Award**
 
 
 
@@ -61,6 +63,8 @@ Dr. Yang has received several significant research grants to further his work on
 - **2024 Most Cited Researchers**: Dr. Yang was recognized as one of the world’s most cited researchers, a testament to his impactful contributions to the field of computer science and engineering.
 - **UNT College of Engineering Research Award (2022)**: Awarded for his exceptional research in autonomous vehicle technologies and wireless communication.
 - **Tech Titans of the Future** Dr. Yang was nominated as one finalist of the Tech Titans of the Future 2021.
+- **PACCAR Distinguished Fellow**: Dr. Yang was selected as the PACCAR Distinguished Fellow of the College of Engineering at UNT. This appointment recognizes rising star tenure and tenure track assistant and associate professors at UNT for their accomplishments in research and scholarly activities.
+- 
 
 ---
 
